@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget
+C001,Campaign 1,Email,2024-11-23,2024-12-10,14149
+C002,Campaign 2,Webinar,2024-05-20,2024-06-14,4286
+C003,Campaign 3,Google Ads,2024-02-22,2024-04-15,10935
+C004,Campaign 4,LinkedIn,2024-02-14,2024-04-01,2520
+C005,Campaign 5,Webinar,2024-01-16,2024-01-31,5811
+C006,Campaign 6,Email,2024-09-15,2024-11-02,11195
+C007,Campaign 7,Google Ads,2024-04-11,2024-06-05,13490
+C008,Campaign 8,Webinar,2024-10-06,2024-11-11,9359

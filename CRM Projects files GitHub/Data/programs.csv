@@ -1,0 +1,6 @@
+program_id,program_name,college,degree_level,delivery_mode
+P101,MS Information Systems,Business,Masters,On-campus
+P102,MS Data Analytics,Business,Masters,Hybrid
+P103,MS Computer Science,Engineering,Masters,On-campus
+P104,MBA,Business,Masters,Hybrid
+P105,MS Cybersecurity,Engineering,Masters,Online

@@ -1,0 +1,201 @@
+prospect_id,first_name,last_name,gender,country,state,program_id,inquiry_date,source_channel,funnel_stage,application_status,lead_score
+PR0000,Name0,Surname0,Male,Canada,VA,P102,2024-12-23,LinkedIn,Engaged,In Progress,63
+PR0001,Name1,Surname1,Male,Canada,CA,P101,2024-02-17,LinkedIn,Inquiry,Not Started,32
+PR0002,Name2,Surname2,Female,Brazil,CA,P101,2024-08-23,Education Fair,Inquiry,Not Started,35
+PR0003,Name3,Surname3,Female,India,FL,P103,2024-11-17,Education Fair,Enrolled,Enrolled,66
+PR0004,Name4,Surname4,Male,India,NJ,P102,2024-05-28,Email,Engaged,In Progress,49
+PR0005,Name5,Surname5,Female,Nigeria,TX,P103,2024-03-24,Instagram,Admitted,Admitted,65
+PR0006,Name6,Surname6,Female,Nepal,NJ,P101,2024-11-07,Google Ads,Inquiry,Not Started,41
+PR0007,Name7,Surname7,Male,USA,TX,P104,2024-05-18,Google Ads,Engaged,In Progress,91
+PR0008,Name8,Surname8,Female,Canada,VA,P101,2024-04-27,Email,Inquiry,Not Started,60
+PR0009,Name9,Surname9,Male,USA,FL,P103,2024-04-18,Google Ads,Engaged,In Progress,83
+PR0010,Name10,Surname10,Female,USA,CA,P102,2024-05-06,Google Ads,Inquiry,Not Started,91
+PR0011,Name11,Surname11,Female,Brazil,TX,P103,2024-04-22,Webinar,Engaged,In Progress,85
+PR0012,Name12,Surname12,Male,Canada,PA,P102,2024-11-17,Webinar,Engaged,In Progress,74
+PR0013,Name13,Surname13,Female,China,FL,P104,2024-09-27,Instagram,Engaged,In Progress,90
+PR0014,Name14,Surname14,Male,Nepal,NJ,P101,2024-12-15,Education Fair,Admitted,Admitted,54
+PR0015,Name15,Surname15,Female,India,CA,P104,2024-03-21,LinkedIn,Applied,Submitted,20
+PR0016,Name16,Surname16,Female,Brazil,VA,P102,2024-09-16,Email,Enrolled,Enrolled,58
+PR0017,Name17,Surname17,Male,USA,CA,P102,2024-10-03,Education Fair,Applied,Submitted,20
+PR0018,Name18,Surname18,Female,India,PA,P103,2024-06-06,Webinar,Engaged,In Progress,27
+PR0019,Name19,Surname19,Male,India,NJ,P104,2024-02-05,Education Fair,Inquiry,Not Started,36
+PR0020,Name20,Surname20,Female,Brazil,NY,P103,2024-09-27,Education Fair,Inquiry,Not Started,74
+PR0021,Name21,Surname21,Male,Nepal,CA,P104,2024-12-09,Google Ads,Enrolled,Enrolled,67
+PR0022,Name22,Surname22,Female,India,NY,P102,2024-02-02,Instagram,Engaged,In Progress,22
+PR0023,Name23,Surname23,Male,Brazil,NY,P101,2024-02-06,Google Ads,Engaged,In Progress,27
+PR0024,Name24,Surname24,Male,Canada,CA,P101,2024-09-20,Webinar,Inquiry,Not Started,55
+PR0025,Name25,Surname25,Male,Brazil,NY,P105,2024-10-22,LinkedIn,Engaged,In Progress,51
+PR0026,Name26,Surname26,Female,USA,PA,P101,2024-12-03,LinkedIn,Applied,Submitted,65
+PR0027,Name27,Surname27,Female,Canada,NJ,P101,2024-12-10,Google Ads,Engaged,In Progress,32
+PR0028,Name28,Surname28,Female,Canada,VA,P101,2024-05-07,Webinar,Inquiry,Not Started,44
+PR0029,Name29,Surname29,Male,China,NY,P103,2024-08-24,Webinar,Engaged,In Progress,29
+PR0030,Name30,Surname30,Male,India,NJ,P105,2024-01-08,Email,Engaged,In Progress,50
+PR0031,Name31,Surname31,Female,China,NY,P104,2024-01-31,Webinar,Inquiry,Not Started,68
+PR0032,Name32,Surname32,Female,Nigeria,VA,P104,2024-05-26,LinkedIn,Inquiry,Not Started,91
+PR0033,Name33,Surname33,Female,USA,NY,P103,2024-04-21,Email,Engaged,In Progress,94
+PR0034,Name34,Surname34,Male,Nepal,CA,P101,2024-01-26,Education Fair,Applied,Submitted,81
+PR0035,Name35,Surname35,Male,India,FL,P101,2024-04-05,Email,Engaged,In Progress,28
+PR0036,Name36,Surname36,Male,China,PA,P105,2024-05-06,Education Fair,Engaged,In Progress,25
+PR0037,Name37,Surname37,Female,Nepal,FL,P105,2024-09-24,Instagram,Engaged,In Progress,53
+PR0038,Name38,Surname38,Female,USA,CA,P104,2024-03-08,Google Ads,Inquiry,Not Started,58
+PR0039,Name39,Surname39,Male,India,TX,P105,2024-10-15,Email,Engaged,In Progress,29
+PR0040,Name40,Surname40,Female,USA,CA,P101,2024-05-05,Instagram,Engaged,In Progress,56
+PR0041,Name41,Surname41,Female,Brazil,VA,P105,2024-01-05,Google Ads,Inquiry,Not Started,90
+PR0042,Name42,Surname42,Male,USA,CA,P101,2024-02-24,Google Ads,Inquiry,Not Started,90
+PR0043,Name43,Surname43,Female,Brazil,NY,P103,2024-04-14,Google Ads,Inquiry,Not Started,53
+PR0044,Name44,Surname44,Female,Canada,PA,P101,2024-11-20,LinkedIn,Engaged,In Progress,55
+PR0045,Name45,Surname45,Female,Canada,NY,P103,2024-03-23,Google Ads,Inquiry,Not Started,76
+PR0046,Name46,Surname46,Female,Brazil,PA,P101,2024-02-08,Google Ads,Engaged,In Progress,39
+PR0047,Name47,Surname47,Female,Brazil,FL,P102,2024-08-08,Webinar,Engaged,In Progress,25
+PR0048,Name48,Surname48,Male,Nigeria,NY,P102,2024-12-07,Email,Inquiry,Not Started,65
+PR0049,Name49,Surname49,Female,Brazil,NJ,P102,2024-05-01,Webinar,Applied,Submitted,42
+PR0050,Name50,Surname50,Male,USA,NJ,P103,2024-07-29,Google Ads,Admitted,Admitted,51
+PR0051,Name51,Surname51,Male,China,VA,P101,2024-08-28,Webinar,Inquiry,Not Started,45
+PR0052,Name52,Surname52,Female,Nigeria,CA,P102,2024-04-24,Email,Applied,Submitted,44
+PR0053,Name53,Surname53,Female,Canada,PA,P103,2024-06-28,Google Ads,Inquiry,Not Started,85
+PR0054,Name54,Surname54,Female,India,PA,P103,2024-04-01,Education Fair,Inquiry,Not Started,53
+PR0055,Name55,Surname55,Female,Nigeria,NJ,P103,2024-08-11,Education Fair,Inquiry,Not Started,85
+PR0056,Name56,Surname56,Male,Nigeria,PA,P104,2024-01-01,Education Fair,Inquiry,Not Started,88
+PR0057,Name57,Surname57,Male,Nigeria,TX,P101,2024-12-06,Instagram,Engaged,In Progress,60
+PR0058,Name58,Surname58,Male,Nepal,CA,P105,2024-06-07,Google Ads,Engaged,In Progress,72
+PR0059,Name59,Surname59,Female,Brazil,NY,P102,2024-08-03,Google Ads,Inquiry,Not Started,68
+PR0060,Name60,Surname60,Male,Brazil,FL,P103,2024-07-26,Education Fair,Engaged,In Progress,20
+PR0061,Name61,Surname61,Male,China,VA,P105,2024-11-06,Google Ads,Inquiry,Not Started,61
+PR0062,Name62,Surname62,Female,Nepal,NY,P105,2024-08-30,Google Ads,Engaged,In Progress,41
+PR0063,Name63,Surname63,Female,Brazil,NJ,P105,2024-06-20,Email,Engaged,In Progress,50
+PR0064,Name64,Surname64,Male,Canada,NY,P102,2024-01-13,Email,Engaged,In Progress,51
+PR0065,Name65,Surname65,Male,China,TX,P105,2024-04-09,Google Ads,Enrolled,Enrolled,69
+PR0066,Name66,Surname66,Male,USA,NJ,P101,2024-02-24,LinkedIn,Engaged,In Progress,48
+PR0067,Name67,Surname67,Female,India,FL,P102,2024-03-03,LinkedIn,Inquiry,Not Started,37
+PR0068,Name68,Surname68,Female,Canada,TX,P105,2024-09-15,LinkedIn,Applied,Submitted,90
+PR0069,Name69,Surname69,Male,Nepal,VA,P104,2024-08-18,Instagram,Engaged,In Progress,51
+PR0070,Name70,Surname70,Female,Canada,VA,P105,2024-09-05,Google Ads,Applied,Submitted,50
+PR0071,Name71,Surname71,Male,Nepal,CA,P102,2024-05-19,Instagram,Inquiry,Not Started,60
+PR0072,Name72,Surname72,Male,USA,NY,P102,2024-07-15,Google Ads,Admitted,Admitted,39
+PR0073,Name73,Surname73,Male,China,TX,P103,2024-10-04,LinkedIn,Applied,Submitted,73
+PR0074,Name74,Surname74,Female,China,VA,P105,2024-12-22,Email,Inquiry,Not Started,93
+PR0075,Name75,Surname75,Male,Nigeria,CA,P104,2024-08-02,Education Fair,Inquiry,Not Started,89
+PR0076,Name76,Surname76,Male,China,NY,P103,2024-08-11,LinkedIn,Applied,Submitted,23
+PR0077,Name77,Surname77,Female,Nepal,NY,P104,2024-03-06,Education Fair,Inquiry,Not Started,88
+PR0078,Name78,Surname78,Female,Brazil,FL,P101,2024-02-12,Google Ads,Inquiry,Not Started,74
+PR0079,Name79,Surname79,Female,USA,PA,P103,2024-07-13,Instagram,Inquiry,Not Started,47
+PR0080,Name80,Surname80,Female,Canada,TX,P103,2024-08-03,Instagram,Engaged,In Progress,30
+PR0081,Name81,Surname81,Male,Nigeria,NY,P101,2024-11-29,Email,Engaged,In Progress,23
+PR0082,Name82,Surname82,Male,Canada,PA,P105,2024-03-19,Webinar,Admitted,Admitted,36
+PR0083,Name83,Surname83,Male,Brazil,NY,P104,2024-12-24,Instagram,Engaged,In Progress,67
+PR0084,Name84,Surname84,Male,Canada,VA,P102,2024-06-08,Email,Inquiry,Not Started,94
+PR0085,Name85,Surname85,Female,Brazil,NJ,P104,2024-07-22,Google Ads,Inquiry,Not Started,45
+PR0086,Name86,Surname86,Male,India,NJ,P103,2024-12-16,Education Fair,Inquiry,Not Started,35
+PR0087,Name87,Surname87,Male,Nigeria,FL,P104,2024-12-04,Instagram,Applied,Submitted,28
+PR0088,Name88,Surname88,Female,India,VA,P104,2024-09-07,Email,Engaged,In Progress,75
+PR0089,Name89,Surname89,Female,Nepal,NY,P104,2024-03-31,Google Ads,Enrolled,Enrolled,86
+PR0090,Name90,Surname90,Female,Brazil,VA,P105,2024-09-04,LinkedIn,Enrolled,Enrolled,75
+PR0091,Name91,Surname91,Female,Nigeria,VA,P102,2024-02-14,Instagram,Applied,Submitted,77
+PR0092,Name92,Surname92,Female,Brazil,FL,P104,2024-06-21,Email,Inquiry,Not Started,83
+PR0093,Name93,Surname93,Male,China,NY,P103,2024-05-12,Instagram,Admitted,Admitted,55
+PR0094,Name94,Surname94,Female,Brazil,PA,P105,2024-04-07,Email,Admitted,Admitted,50
+PR0095,Name95,Surname95,Female,Brazil,VA,P102,2024-12-19,LinkedIn,Applied,Submitted,82
+PR0096,Name96,Surname96,Male,India,CA,P102,2024-07-26,Google Ads,Engaged,In Progress,51
+PR0097,Name97,Surname97,Female,China,FL,P105,2024-06-25,LinkedIn,Inquiry,Not Started,90
+PR0098,Name98,Surname98,Female,Nigeria,CA,P103,2024-04-28,Email,Inquiry,Not Started,44
+PR0099,Name99,Surname99,Male,USA,NY,P104,2024-05-21,Google Ads,Inquiry,Not Started,95
+PR0100,Name100,Surname100,Female,India,VA,P102,2024-05-31,Webinar,Enrolled,Enrolled,66
+PR0101,Name101,Surname101,Male,Nepal,FL,P102,2024-05-20,Email,Inquiry,Not Started,26
+PR0102,Name102,Surname102,Male,Nepal,VA,P104,2024-02-22,Email,Engaged,In Progress,93
+PR0103,Name103,Surname103,Female,China,CA,P102,2024-01-27,Instagram,Inquiry,Not Started,81
+PR0104,Name104,Surname104,Male,China,TX,P101,2024-10-22,Google Ads,Inquiry,Not Started,26
+PR0105,Name105,Surname105,Female,India,NY,P101,2024-10-12,LinkedIn,Inquiry,Not Started,48
+PR0106,Name106,Surname106,Female,China,TX,P103,2024-10-28,LinkedIn,Applied,Submitted,59
+PR0107,Name107,Surname107,Male,Brazil,NJ,P101,2024-04-16,Google Ads,Engaged,In Progress,47
+PR0108,Name108,Surname108,Male,USA,NY,P102,2024-10-09,Email,Inquiry,Not Started,40
+PR0109,Name109,Surname109,Female,Nepal,FL,P104,2024-05-29,Email,Inquiry,Not Started,49
+PR0110,Name110,Surname110,Female,Nepal,VA,P104,2024-02-06,Google Ads,Inquiry,Not Started,49
+PR0111,Name111,Surname111,Male,China,PA,P105,2024-04-25,Google Ads,Admitted,Admitted,39
+PR0112,Name112,Surname112,Male,India,PA,P102,2024-06-06,Education Fair,Admitted,Admitted,92
+PR0113,Name113,Surname113,Female,India,TX,P103,2024-12-24,LinkedIn,Admitted,Admitted,54
+PR0114,Name114,Surname114,Female,China,PA,P105,2024-01-21,LinkedIn,Engaged,In Progress,61
+PR0115,Name115,Surname115,Male,India,NY,P105,2024-10-27,Email,Engaged,In Progress,54
+PR0116,Name116,Surname116,Male,China,FL,P104,2024-05-22,Webinar,Engaged,In Progress,94
+PR0117,Name117,Surname117,Female,India,TX,P103,2024-07-28,Instagram,Engaged,In Progress,61
+PR0118,Name118,Surname118,Male,Nigeria,TX,P104,2024-05-27,Google Ads,Engaged,In Progress,71
+PR0119,Name119,Surname119,Male,China,PA,P103,2024-05-09,Instagram,Applied,Submitted,34
+PR0120,Name120,Surname120,Female,Canada,FL,P101,2024-12-02,Education Fair,Enrolled,Enrolled,79
+PR0121,Name121,Surname121,Male,Brazil,CA,P105,2024-09-12,Google Ads,Engaged,In Progress,76
+PR0122,Name122,Surname122,Male,Nigeria,FL,P102,2024-05-27,LinkedIn,Applied,Submitted,82
+PR0123,Name123,Surname123,Male,Nepal,NY,P103,2024-10-09,Email,Inquiry,Not Started,90
+PR0124,Name124,Surname124,Male,Canada,PA,P104,2024-03-01,Google Ads,Engaged,In Progress,39
+PR0125,Name125,Surname125,Female,Brazil,NJ,P103,2024-07-31,LinkedIn,Engaged,In Progress,80
+PR0126,Name126,Surname126,Male,China,NY,P105,2024-09-17,Google Ads,Inquiry,Not Started,37
+PR0127,Name127,Surname127,Female,Canada,VA,P104,2024-06-23,Education Fair,Admitted,Admitted,54
+PR0128,Name128,Surname128,Female,Nepal,CA,P105,2024-10-23,Google Ads,Applied,Submitted,82
+PR0129,Name129,Surname129,Female,Brazil,TX,P103,2024-06-19,Education Fair,Admitted,Admitted,89
+PR0130,Name130,Surname130,Female,Canada,NY,P102,2024-10-19,LinkedIn,Inquiry,Not Started,49
+PR0131,Name131,Surname131,Female,India,CA,P104,2024-12-27,LinkedIn,Admitted,Admitted,69
+PR0132,Name132,Surname132,Male,China,PA,P102,2024-09-14,Education Fair,Enrolled,Enrolled,62
+PR0133,Name133,Surname133,Female,India,FL,P104,2024-01-08,Google Ads,Admitted,Admitted,38
+PR0134,Name134,Surname134,Male,India,TX,P103,2024-06-22,Education Fair,Engaged,In Progress,70
+PR0135,Name135,Surname135,Female,Canada,NJ,P105,2024-07-13,Instagram,Engaged,In Progress,82
+PR0136,Name136,Surname136,Male,Brazil,PA,P102,2024-11-19,Google Ads,Admitted,Admitted,56
+PR0137,Name137,Surname137,Male,China,PA,P101,2024-08-15,Webinar,Enrolled,Enrolled,58
+PR0138,Name138,Surname138,Male,Nigeria,VA,P101,2024-05-30,Instagram,Admitted,Admitted,67
+PR0139,Name139,Surname139,Male,Brazil,TX,P105,2024-12-15,Webinar,Engaged,In Progress,41
+PR0140,Name140,Surname140,Female,Brazil,NJ,P102,2024-09-11,Education Fair,Inquiry,Not Started,38
+PR0141,Name141,Surname141,Female,China,CA,P101,2024-08-26,Instagram,Inquiry,Not Started,89
+PR0142,Name142,Surname142,Female,Nigeria,FL,P103,2024-11-23,LinkedIn,Inquiry,Not Started,52
+PR0143,Name143,Surname143,Female,USA,TX,P104,2024-02-24,Webinar,Engaged,In Progress,68
+PR0144,Name144,Surname144,Female,Nepal,CA,P101,2024-12-03,LinkedIn,Engaged,In Progress,55
+PR0145,Name145,Surname145,Male,Brazil,NJ,P104,2024-05-26,Webinar,Inquiry,Not Started,65
+PR0146,Name146,Surname146,Male,Brazil,CA,P102,2024-11-17,Email,Inquiry,Not Started,25
+PR0147,Name147,Surname147,Female,India,FL,P103,2024-03-08,Email,Inquiry,Not Started,57
+PR0148,Name148,Surname148,Female,USA,NY,P102,2024-10-03,Instagram,Inquiry,Not Started,87
+PR0149,Name149,Surname149,Female,Canada,NY,P103,2024-09-03,Instagram,Engaged,In Progress,63
+PR0150,Name150,Surname150,Female,India,NY,P102,2024-12-12,Google Ads,Applied,Submitted,70
+PR0151,Name151,Surname151,Female,India,VA,P104,2024-01-08,Instagram,Enrolled,Enrolled,88
+PR0152,Name152,Surname152,Female,Nepal,NJ,P103,2024-10-26,LinkedIn,Inquiry,Not Started,67
+PR0153,Name153,Surname153,Male,China,PA,P105,2024-10-14,Instagram,Inquiry,Not Started,48
+PR0154,Name154,Surname154,Female,Nepal,CA,P104,2024-02-29,Webinar,Engaged,In Progress,25
+PR0155,Name155,Surname155,Female,China,PA,P101,2024-04-30,Education Fair,Admitted,Admitted,37
+PR0156,Name156,Surname156,Female,Nepal,NJ,P105,2024-08-02,Education Fair,Inquiry,Not Started,39
+PR0157,Name157,Surname157,Male,Canada,TX,P105,2024-07-27,Instagram,Admitted,Admitted,24
+PR0158,Name158,Surname158,Male,China,TX,P102,2024-07-04,Email,Engaged,In Progress,67
+PR0159,Name159,Surname159,Female,India,TX,P103,2024-04-07,Email,Engaged,In Progress,78
+PR0160,Name160,Surname160,Male,Nepal,NJ,P105,2024-01-11,Email,Inquiry,Not Started,62
+PR0161,Name161,Surname161,Male,Canada,FL,P102,2024-02-05,Education Fair,Inquiry,Not Started,46
+PR0162,Name162,Surname162,Male,Nigeria,VA,P102,2024-11-01,Email,Engaged,In Progress,55
+PR0163,Name163,Surname163,Male,USA,FL,P103,2024-03-30,Email,Admitted,Admitted,23
+PR0164,Name164,Surname164,Female,Canada,VA,P102,2024-10-28,Instagram,Inquiry,Not Started,22
+PR0165,Name165,Surname165,Male,USA,NJ,P104,2024-09-26,Email,Inquiry,Not Started,28
+PR0166,Name166,Surname166,Female,Brazil,FL,P101,2024-08-19,Education Fair,Engaged,In Progress,48
+PR0167,Name167,Surname167,Male,Nepal,VA,P105,2024-06-03,LinkedIn,Admitted,Admitted,23
+PR0168,Name168,Surname168,Female,Canada,TX,P104,2024-12-17,Email,Inquiry,Not Started,82
+PR0169,Name169,Surname169,Female,India,PA,P103,2024-11-07,Webinar,Applied,Submitted,28
+PR0170,Name170,Surname170,Female,China,FL,P105,2024-05-30,LinkedIn,Inquiry,Not Started,84
+PR0171,Name171,Surname171,Male,Canada,NJ,P101,2024-12-01,Google Ads,Engaged,In Progress,90
+PR0172,Name172,Surname172,Male,China,TX,P102,2024-07-30,Instagram,Applied,Submitted,78
+PR0173,Name173,Surname173,Male,Nigeria,TX,P103,2024-12-06,Instagram,Inquiry,Not Started,67
+PR0174,Name174,Surname174,Female,India,PA,P101,2024-02-17,LinkedIn,Enrolled,Enrolled,32
+PR0175,Name175,Surname175,Female,Canada,NY,P105,2024-01-31,Education Fair,Applied,Submitted,91
+PR0176,Name176,Surname176,Male,China,CA,P104,2024-01-27,Instagram,Engaged,In Progress,59
+PR0177,Name177,Surname177,Male,USA,NJ,P104,2024-04-24,Email,Inquiry,Not Started,64
+PR0178,Name178,Surname178,Female,India,VA,P103,2024-10-20,Webinar,Applied,Submitted,74
+PR0179,Name179,Surname179,Male,Brazil,NJ,P103,2024-01-15,Webinar,Applied,Submitted,54
+PR0180,Name180,Surname180,Female,Nigeria,CA,P101,2024-04-02,Webinar,Applied,Submitted,92
+PR0181,Name181,Surname181,Male,USA,NJ,P101,2024-02-16,Google Ads,Engaged,In Progress,87
+PR0182,Name182,Surname182,Female,China,CA,P102,2024-07-08,Instagram,Inquiry,Not Started,61
+PR0183,Name183,Surname183,Male,India,NY,P102,2024-11-12,Email,Applied,Submitted,30
+PR0184,Name184,Surname184,Female,China,FL,P104,2024-07-31,Instagram,Inquiry,Not Started,47
+PR0185,Name185,Surname185,Male,Nigeria,TX,P101,2024-05-25,Google Ads,Applied,Submitted,95
+PR0186,Name186,Surname186,Female,India,NY,P104,2024-11-02,Email,Engaged,In Progress,20
+PR0187,Name187,Surname187,Male,Canada,NY,P103,2024-05-28,Instagram,Inquiry,Not Started,35
+PR0188,Name188,Surname188,Female,USA,NY,P104,2024-09-29,Google Ads,Inquiry,Not Started,49
+PR0189,Name189,Surname189,Female,India,TX,P101,2024-08-11,Email,Engaged,In Progress,78
+PR0190,Name190,Surname190,Female,Brazil,TX,P105,2024-07-26,Google Ads,Admitted,Admitted,73
+PR0191,Name191,Surname191,Female,India,CA,P102,2024-11-12,LinkedIn,Inquiry,Not Started,66
+PR0192,Name192,Surname192,Male,USA,TX,P105,2024-07-24,Education Fair,Inquiry,Not Started,30
+PR0193,Name193,Surname193,Female,Nepal,CA,P102,2024-06-19,Webinar,Inquiry,Not Started,29
+PR0194,Name194,Surname194,Male,Brazil,FL,P102,2024-06-27,Instagram,Engaged,In Progress,38
+PR0195,Name195,Surname195,Male,Nigeria,NY,P102,2024-11-04,Webinar,Inquiry,Not Started,29
+PR0196,Name196,Surname196,Female,China,VA,P105,2024-10-23,LinkedIn,Inquiry,Not Started,92
+PR0197,Name197,Surname197,Female,Canada,NJ,P103,2024-03-18,LinkedIn,Engaged,In Progress,28
+PR0198,Name198,Surname198,Female,Canada,CA,P105,2024-01-29,Instagram,Engaged,In Progress,84
+PR0199,Name199,Surname199,Female,China,PA,P101,2024-07-07,Instagram,Inquiry,Not Started,29

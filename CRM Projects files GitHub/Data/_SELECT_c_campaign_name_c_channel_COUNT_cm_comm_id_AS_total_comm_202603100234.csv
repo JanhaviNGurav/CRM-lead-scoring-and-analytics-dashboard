@@ -1,0 +1,9 @@
+campaign_name,channel,total_communications,opens,clicks,replies,open_rate_pct,click_rate_pct,reply_rate_pct
+Campaign 4,LinkedIn,60,30,14,12,50,23.33,20
+Campaign 3,Google Ads,68,42,20,11,61.76,29.41,16.18
+Campaign 1,Email,57,28,14,9,49.12,24.56,15.79
+Campaign 7,Google Ads,71,36,24,10,50.7,33.8,14.08
+Campaign 2,Webinar,65,37,20,9,56.92,30.77,13.85
+Campaign 5,Webinar,62,25,15,6,40.32,24.19,9.68
+Campaign 8,Webinar,58,20,8,4,34.48,13.79,6.9
+Campaign 6,Email,59,30,12,4,50.85,20.34,6.78

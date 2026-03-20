@@ -1,0 +1,21 @@
+"prospect_id","prospect_name","country","source_channel","funnel_stage","application_status","lead_score"
+PR0099,Name99 Surname99,USA,Google Ads,Inquiry,Not Started,95
+PR0185,Name185 Surname185,Nigeria,Google Ads,Applied,Submitted,95
+PR0033,Name33 Surname33,USA,Email,Engaged,In Progress,94
+PR0084,Name84 Surname84,Canada,Email,Inquiry,Not Started,94
+PR0116,Name116 Surname116,China,Webinar,Engaged,In Progress,94
+PR0074,Name74 Surname74,China,Email,Inquiry,Not Started,93
+PR0102,Name102 Surname102,Nepal,Email,Engaged,In Progress,93
+PR0112,Name112 Surname112,India,Education Fair,Admitted,Admitted,92
+PR0180,Name180 Surname180,Nigeria,Webinar,Applied,Submitted,92
+PR0196,Name196 Surname196,China,LinkedIn,Inquiry,Not Started,92
+PR0007,Name7 Surname7,USA,Google Ads,Engaged,In Progress,91
+PR0010,Name10 Surname10,USA,Google Ads,Inquiry,Not Started,91
+PR0032,Name32 Surname32,Nigeria,LinkedIn,Inquiry,Not Started,91
+PR0175,Name175 Surname175,Canada,Education Fair,Applied,Submitted,91
+PR0013,Name13 Surname13,China,Instagram,Engaged,In Progress,90
+PR0041,Name41 Surname41,Brazil,Google Ads,Inquiry,Not Started,90
+PR0042,Name42 Surname42,USA,Google Ads,Inquiry,Not Started,90
+PR0068,Name68 Surname68,Canada,LinkedIn,Applied,Submitted,90
+PR0097,Name97 Surname97,China,LinkedIn,Inquiry,Not Started,90
+PR0123,Name123 Surname123,Nepal,Email,Inquiry,Not Started,90
