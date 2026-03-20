@@ -40,8 +40,7 @@ This project shows how the same analytical outputs can be converted into interac
 
 ## Sample Outputs
 ### Traditional Tabular Output
-![Traditional Output](<img width="1861" height="601" alt="campaign performance full output" src="https://github.com/user-attachments/assets/e78f8e11-d234-4ab5-b46d-96db8966916e" />
-)
+![Traditional Output](https://github.com/JanhaviNGurav/CRM-lead-scoring-and-analytics-dashboard/blob/main/CRM%20Projects%20files%20GitHub/Tabular%20ouput%20screenshots/campaign%20performance%20full%20output.png)
 
 ### Dashboard Output
 ![Dashboard Output](<img width="1375" height="775" alt="Campaign performance dashboard" src="https://github.com/user-attachments/assets/a090964c-54c7-4074-b050-f280be150737" />
